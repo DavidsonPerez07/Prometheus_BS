@@ -10,4 +10,4 @@ scrape_configs:
 
     static_configs:
       - targets:
-          - genuine-laughter-production-7ac6.up.railway.app
+          - backendblashape-production.up.railway.app
